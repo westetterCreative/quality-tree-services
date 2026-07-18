@@ -1,6 +1,13 @@
 // Auto-generated — customize anytime.
 
-export const business = {
+export const business: {
+  name: string;
+  phone: string;
+  address: string;
+  category: string;
+  rating: number | null;
+  reviewCount: number | null;
+} = {
   "name": "Quality Tree Services",
   "phone": "(573) 243-5422",
   "address": "Jackson, MO 63755",
