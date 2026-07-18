@@ -1,0 +1,39 @@
+{
+  "businessName": "Quality Tree Services",
+  "businessCategory": "Tree service",
+  "location": "Jackson, MO 63755",
+  "likelyCustomerType": "Homeowners with mature trees, storm risk, or clearance needs",
+  "servicesOffered": [
+    "Pruning & Trimming",
+    "Tree Removal",
+    "Stump Grinding",
+    "Storm Response",
+    "Lot Clearing",
+    "Cabling & Bracing"
+  ],
+  "trustSignalsNeeded": [
+    "Insurance proof",
+    "ISA credentials (if applicable)",
+    "Written safety plan",
+    "Cleanup standards"
+  ],
+  "recommendedTone": "Steady, safety-forward, experienced",
+  "colorPalette": {
+    "primary": "#33691e",
+    "primaryDark": "#1b3009",
+    "primaryLight": "#9ccc65",
+    "accent": "#5d4037",
+    "surfaceAlt": "#f4f6f1"
+  },
+  "typographyDirection": "Sturdy slab/headline feel with readable sans body",
+  "fontHeading": "'Archivo Black', system-ui, sans-serif",
+  "fontBody": "'Source Sans 3', system-ui, sans-serif",
+  "googleFontsQuery": "Archivo+Black&family=Source+Sans+3:wght@400;500;600;700",
+  "layoutStyle": "Earthy palette, strong section separation, proof of expertise",
+  "ctaStrategy": "Primary: on-site assessment. Secondary: emergency call button.",
+  "presetId": "tree_service",
+  "designMood": "Rugged, green/brown, safety-focused",
+  "seoTitle": "Quality Tree Services | Tree service in Jackson, MO 63755",
+  "metaDescription": "Professional tree trimming, removal, stump grinding, and emergency tree service. Licensed and insured. Free estimates.",
+  "openGraphDescription": "Quality Tree Services — Safe Tree Work. Done By Pros.. Trimming, removals, and storm response with safety-first planning—protecting your home, your trees, and your peace of mind."
+}
